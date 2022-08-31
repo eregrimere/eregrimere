@@ -2,6 +2,6 @@
 
 - 👀 I’m interested in improve my skills and work with it in the future
 
-- 🌱 I’m currently learning Lua and C++
+- 🌱 I’m currently learning Python and Javascript
 
 - 📫 How to reach me: Mugi#0897 on discord, or phch0812@gmail.com
