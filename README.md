@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently learning Python and Javascript
 
-- 📫 How to reach me: Mugi#0897 on discord, or phch0812@gmail.com
+- 📫 How to reach me: bykarp#1601 on discord, or phch0812@gmail.com
