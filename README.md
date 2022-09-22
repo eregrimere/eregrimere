@@ -4,4 +4,6 @@
 
 - 🌱 I’m currently learning Python and Javascript
 
+- 😁 I already know Lua
+
 - 📫 How to reach me: bykarp#1601 on discord, or phch0812@gmail.com
