@@ -1,8 +1,8 @@
 Characters = [[1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM!@#$%&*()-_=+'"\|/,.:][}{?]]
 print("Password Creator. Enter the number of characters you want your password to have.")
-NOfCharacters = io.read("n") -- numero de caracteres
+NOfCharacters = io.read("n") -- Number of characters
 print("How many Passwords do you want?")
-NOfPasswords = io.read("n") -- Numero de senhas
+NOfPasswords = io.read("n") -- Number of passwords
 
 Password = {}
 for i = 1, NOfPasswords, 1 do 
