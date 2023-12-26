@@ -2,8 +2,8 @@
 
 - 👀 I’m interested in improve my skills and work with it in the future
 
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m currently learning html
 
-- 😁 I already know Lua
+- 😁 I already know Lua, Python and Javascript
 
-- 📫 How to reach me: bykarp#1601 on discord, or phch0812@gmail.com
+- 📫 How to reach me: der_sterrennacht on discord, or phch0812@gmail.com
