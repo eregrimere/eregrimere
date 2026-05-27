@@ -2,8 +2,8 @@
 
 - 👀 I’m interested in improve my skills and work with it in the future
 
-- 🌱 I’m currently learning Html
+- 🌱 I’m currently learning Maven, Hexagonal Architecture, SQL
 
-- 😁 I already know Lua, Python and Java
+- 😁 Mainly Java Dev, but i can learn other languages as well
 
-- 📫 How to reach me: der_sterrennacht on discord, or phch0812@gmail.com
+- 📫 How to reach me: my email phch0812@gmail.com
